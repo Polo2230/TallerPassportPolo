@@ -1,1 +1,2 @@
-Se corre con node server.js y en la terminal con localhost:8080
+Se corre con node server.js y en la terminal con localhost:8080/register despues de proceder al register se le da click al login y se inicia sesion y retorna un mensaje diciendo que inicio correctamente la sesion
+
